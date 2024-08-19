@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_1", "Ejecicio_1\Ejercicio_1.csproj", "{E49763D1-165A-4760-87C9-B13E0C576B93}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_1", "Ejercicio_1\Ejercicio_1.csproj", "{E49763D1-165A-4760-87C9-B13E0C576B93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_1_v2", "Ejecicios_1_v2\Ejercicio_1_v2.csproj", "{934A8A7E-A25C-436C-A326-62F3EF1D9313}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_1_v2", "Ejercicio_1_v2\Ejercicio_1_v2.csproj", "{934A8A7E-A25C-436C-A326-62F3EF1D9313}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_2", "Ejercicio_2\Ejercicio_2.csproj", "{DA4F1AC0-F0AE-496C-BCE9-29D0C4201E95}"
 EndProject
