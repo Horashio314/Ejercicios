@@ -35,10 +35,10 @@ namespace Ejercicio_2{
         static void Main(string[] args){
             // Recibo los valores
             Console.WriteLine("Ingrese la primera palabra: ");
-            string palabra1 = Console.ReadLine();
+            string palabra1 = Console.ReadLine() == null? "": "";
 
             Console.WriteLine("Ingrese la segunda palabra: ");
-            string palabra2 = Console.ReadLine();
+            string palabra2 = Console.ReadLine() == null? "": "";;
 
             if (palabra1 == null || palabra2 == null){
                 Console.WriteLine("No se ingresaron palabras.");
